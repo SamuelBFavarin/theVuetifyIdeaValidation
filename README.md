@@ -1,4 +1,4 @@
-# theFirebaseValidation
+# theVuetifyValidation
 This project have the only function, validate if firebase is good.
 
 ## Firebase Host

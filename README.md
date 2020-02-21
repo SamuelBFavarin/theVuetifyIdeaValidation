@@ -1,5 +1,5 @@
-# theVuetifyIdeaValidation
-This project have the only function, validate if vuetify is good.
+# theFirebaseValidation
+This project have the only function, validate if firebase is good.
 
 ## Firebase Host
 ```
